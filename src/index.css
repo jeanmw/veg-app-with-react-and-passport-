@@ -1,0 +1,28 @@
+body {
+  margin: 20px;
+  padding: 20px;
+}
+
+
+.my-veg {
+  margin: 20px;
+  padding: 20px;
+  background-color: #6CB291;
+  color: white
+}
+
+.any-veg {
+  margin: 20px;
+  padding: 20px;
+  background-color: #CEFFE8
+}
+
+.danger-button {
+  background-color: #B2655A;
+  color: white;
+}
+
+.logout-button {
+  margin: 20px;
+  background-color: #FFBDB4
+}
